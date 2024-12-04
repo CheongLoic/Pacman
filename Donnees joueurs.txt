@@ -1,0 +1,4 @@
+Joueur		Tableau	Score
+loic		4	150
+alex_brun		2	50
+oumar		1	0
