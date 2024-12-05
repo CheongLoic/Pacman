@@ -6,7 +6,9 @@ En lançant le programme, une interface de ligne de commande apparaîtra, vous d
 
 Rentrer votre nom de joeur, puis taper sur entrer pour confirmer, puis la touche `Espace`
 
-![alt text](<img/saisi pseudo.png>)
+<p align="center">
+  <img src="img/saisi pseudo.png">
+</p>
 
 # Menu
 La règle du jeu est simple. Vous êtes Pacman, symbolisé par la lettre X en jaune sur la console. Mangez le plus vite possible tous les
@@ -15,7 +17,9 @@ Accédez à différents niveaux lorsque vous avez fini de manger les diamants.
 Faites votre meilleur score ! Bon jeu.
 
 
-![alt text](<img/menu accueil.png>)
+<p align="center">
+  <img src="img/menu accueil.png">
+</p>
 
 Pour déplacer le curseur sur le menu d'accueil, utiliser les touches suivantes : 
 - `e` = Se déplacer en Haut
@@ -49,24 +53,29 @@ Il y a 4 niveaux de jeu programmés
 1. Niveau 1 
 
 Déplacez-vous pour manger les diamants avec pacman
-![alt text](<img/niv 1.png>)
+<p align="center">
+  <img src="img/niv 1.png">
+</p>
 
 2. Niveau 2
 
 Déplacez-vous pour manger les diamants avec pacman. cette fois-ci, des monstres M apparaîtront sur la carte. Ils sont innofensifs, ils se déplacent aléatoirement
-![alt text](<img/niv 2.png>)
+<p align="center">
+  <img src="img/niv 2.png">
+</p>
 
 3.  Niveau 3
 
 Vous êtes dans un labyrinthe poursuivi par des monstres. Pour éviter de mourir, mangez vite les diamants avant que les monstres M ne vous mangent !
-![alt text](<img/niv 3.png>)
+<p align="center">
+  <img src="img/niv 3.png">
+</p>
 
 4.  Niveau 4
 
 Déplacez-vous pour manger les diamants. En mangeant un diamant, une autre lettre X apparaîtra, allongeant le corps comme dans le jeu de serpent avec les pommes
-![alt text](<img/niv 4.PNG>)
-
-
-
+<p align="center">
+  <img src="img/niv 4.PNG">
+</p>
 
 
