@@ -43,14 +43,20 @@ int option_bordure(int mode,int col) //
 void menu()
 {//Simple affichage du menu avec les options
     printf("\t\t\t\t  PACMAN\n\n");
-    printf("Ce jeu a ete cree par\nBRIXY Antoine\tBRUN Alexandre\tCHEONG Loic\nING 3 TDS05 Groupe 7\n\n\n");
+    printf("Ce jeu a ete cree par CHEONG Loic\n\n\n\n\n");
 
     printf("Effacer sauvegarde et recommencer toute la partie\n");
     printf("Reprendre partie enregistree\n");
     printf("Vitesse\n");
     printf("Bordure de carte\n");
     printf("Regles du jeu\n");
-    printf("Quitter et sauvegarder la partie du jeu\n");
+    printf("Quitter et sauvegarder la partie du jeu\n\n\n");
+
+    printf("Pour deplacer le curseur, taper les touches suivantes sur le clavier : \n");
+    printf("- 's' pour se deplacer vers la gauche \n");
+    printf("- 'd' pour se deplacer vers la bas\n");
+    printf("- 'f' pour se deplacer vers la droite\n");
+    printf("- 'e' pour se deplacer vers le haut\n");
 }
 
 void curseur_menu(char touche,int *lig, int col)
