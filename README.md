@@ -31,31 +31,40 @@ Vous pouvez choisir votre vitesse de déplacement :
 2. Normal        
 3. Rapide
 
+
+
 Vous pouvez choisir  l'activation/désactivation de la bordure de carte du jeu représenté par le symbol `#` 
+
 En mode ON, si votre Pacman touche une bordure, il perd une vie
-En mode OFF, si votre Pacman sort du terrain, il reapparaitra au cote opposé
+
+En mode OFF, si votre Pacman sort du terrain, il reapparaitra au côte opposé
+
 Choix du mode de jeu :
 ON      OFF
 
 
-Vous pouvez choisir de continuer votre partie ou de le supprimer et recommencer toutes les niveaux.
+Vous pouvez choisir de continuer votre partie ou de le supprimer et recommencer tous les niveaux.
 
 Il y a 4 niveaux de jeu programmés
 1. Niveau 1 
+
 Déplacez-vous pour manger les diamants avec pacman
 ![alt text](<img/niv 1.png>)
 
 2. Niveau 2
-Déplacez-vous pour manger les diamants avec pacman. cette fois-ci, des monstres M apparaîtrot sur la carte. Ils sont innofensifs, ils se déplacent aléatoirement
+
+Déplacez-vous pour manger les diamants avec pacman. cette fois-ci, des monstres M apparaîtront sur la carte. Ils sont innofensifs, ils se déplacent aléatoirement
 ![alt text](<img/niv 2.png>)
 
 3.  Niveau 3
+
 Vous êtes dans un labyrinthe poursuivi par des monstres. Pour éviter de mourir, mangez vite les diamants avant que les monstres M ne vous mangent !
 ![alt text](<img/niv 3.png>)
 
 4.  Niveau 4
+
 Déplacez-vous pour manger les diamants. En mangeant un diamant, une autre lettre X apparaîtra, allongeant le corps comme dans le jeu de serpent avec les pommes
-![alt text](<img/niv 4.png>)
+![alt text](<img/niv 4.PNG>)
 
 
 
